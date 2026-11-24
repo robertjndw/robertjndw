@@ -15,6 +15,8 @@
 ### Featured
 
 <p align="center">
+  <a href="https://github.com/robertjndw/archipel"><img src="./profile/pin-archipel.svg" alt="archipel" width="49%"></a>
+  <a href="https://github.com/robertjndw/memoir"><img src="./profile/pin-memoir.svg" alt="memoir" width="49%"></a>
   <a href="https://github.com/robertjndw/umlaut"><img src="./profile/pin-umlaut.svg" alt="umlaut" width="49%"></a>
   <a href="https://github.com/robertjndw/qrisp"><img src="./profile/pin-qrisp.svg" alt="qrisp" width="49%"></a>
   <a href="https://github.com/robertjndw/typstry"><img src="./profile/pin-typstry.svg" alt="typstry" width="49%"></a>
@@ -31,6 +33,13 @@
 </p>
 
 ---
+
+### macOS Apps
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**archipel**](https://github.com/robertjndw/archipel) | Agent orchestrator with an Arc-style sidebar | `Swift` |
+| [**memoir**](https://github.com/robertjndw/memoir) | Transcription app | `Swift` |
 
 ### Typst
 
